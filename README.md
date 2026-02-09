@@ -9,3 +9,5 @@
 • Integrated React Toastify to display real-time success and error notifications
 
 • Focused on clean UI design, reusable components, and maintainable code structure
+
+project url - https://e-commerce-ui-react.netlify.app/
